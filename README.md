@@ -53,7 +53,7 @@ está documentado em [`AGENTS.md`](AGENTS.md).
 
 ## O que tem aqui
 
-```
+```text
 guia-estudos-matematica-YYYY-MM-DD.md   ← fonte Markdown (com data)
 guia-estudos-matematica-YYYY-MM-DD.pdf  ← PDF gerado (com data)
 AGENTS.md                               ← pipeline completo e regras de conteúdo

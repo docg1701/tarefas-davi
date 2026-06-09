@@ -15,7 +15,7 @@ para obter a data atual. Exemplo: `guia-estudos-matematica-2026-06-08.pdf`.
 
 **Cabeçalho obrigatório no topo de todo Markdown fonte:**
 
-```
+```markdown
 # Guia de Estudos de Matemática — 8º Ano
 Organizado para Davi Galvani — 13 anos
 Data: <data atual>
@@ -85,7 +85,7 @@ chromium guia-estudos-matematica-${DATA}.pdf
 
 ## Project Structure
 
-```
+```text
 ~/dev/tarefas-davi/
   README.md                                    ← capa do projeto
   AGENTS.md                                    ← este arquivo (fonte da verdade)
@@ -138,7 +138,7 @@ Jamais escreva sem acentos. Jamais use caracteres ingleses no lugar
 - **Zero emojis.** Nem ✅ nem 📖 nem 🧮. Substitua por texto ou remova.
 - **Zero HTML.** Sem `<details>`, `<summary>`, `<div>`. Markdown puro.
 - **Sem quebras de linha forçadas.** Não use double-space no fim de linha
-  para `<br>`. Deixe o parágrafo fluir. Use bullet points (`- `) para listas.
+  para `<br>`. Deixe o parágrafo fluir. Use bullet points (`-`) para listas.
 - **Sem `---` como separador visual.** `---` vira `<hr>` no HTML e polui o PDF.
   Use quebras de seção naturais (títulos h1, h2) em vez de linhas horizontais.
 - **Não repetir o título no metadado e no markdown.** O markdown já tem
@@ -149,7 +149,7 @@ Jamais escreva sem acentos. Jamais use caracteres ingleses no lugar
 
 Cada bloco segue esta ordem fixa:
 
-```
+```text
 # Bloco N — Nome do Bloco
 
 ## Teoria
@@ -218,6 +218,7 @@ Exemplo de mapeamento:
 | `## G3 — Gabarito do Bloco 3 (Produtos Notáveis)` | `g3-gabarito-do-bloco-3-produtos-notáveis` |
 
 Link no sumário:
+
 ```markdown
 - [Bloco 3 — Produtos Notáveis](#bloco-3-produtos-notáveis)
   - [Teoria](#teoria)
