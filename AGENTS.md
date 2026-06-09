@@ -102,13 +102,10 @@ Abra o PDF no Chromium e confira manualmente:
 
 ## Project Structure
 
-```text
-~/dev/tarefas-davi/
-  README.md                                    ← capa do projeto
-  AGENTS.md                                    ← este arquivo (fonte da verdade)
-  guia-estudos-matematica-YYYY-MM-DD.md        ← fonte Markdown (com data)
-  guia-estudos-matematica-YYYY-MM-DD.pdf       ← PDF gerado (com data)
-```
+- `README.md` — capa do projeto
+- `AGENTS.md` — este arquivo (fonte da verdade)
+- `guia-estudos-matematica-YYYY-MM-DD.md` — fonte Markdown (com data)
+- `guia-estudos-matematica-YYYY-MM-DD.pdf` — PDF gerado (com data)
 
 ## Markdown Content Rules
 
@@ -148,17 +145,13 @@ Jamais escreva "nao", "fracao", "polinomios".
 
 ### Estrutura por bloco
 
-```text
-# Bloco N — Nome do Bloco
+Cada bloco segue esta ordem fixa:
 
-## Teoria
-
-## Exercícios — Bloco N
-
-*(Gabarito na página de Gabaritos — Seção GN)*
-
-## Vídeos — Bloco N
-```
+1. `# Bloco N — Nome do Bloco`
+2. `## Teoria`
+3. `## Exercícios — Bloco N`
+4. `*(Gabarito na página de Gabaritos — Seção GN)*`
+5. `## Vídeos — Bloco N`
 
 ### Teoria
 
