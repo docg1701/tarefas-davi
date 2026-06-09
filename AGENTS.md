@@ -1,16 +1,32 @@
 # AGENTS.md — tarefas-davi
 
 Projeto: materiais de estudo de matemática para Davi Galvani (13 anos, 8º ano).
-Pipelines: Markdown → pandoc → HTML + postprocess → Chromium → PDF.
+Pipeline: Markdown → pandoc → HTML + postprocess → Chromium → PDF.
 
 **Convenção de nomes:** todo arquivo gerado inclui a data no formato
 `<assunto>-YYYY-MM-DD.md` / `<assunto>-YYYY-MM-DD.pdf`. Use `date +%F`
 para obter a data atual. Exemplo: `guia-estudos-matematica-2026-06-08.pdf`.
 
+## Dados do Davi
+
+- Nome: Davi Galvani
+- Idade: 13 anos
+- Série: 8º Ano (oitavo ano do Ensino Fundamental)
+
+**Cabeçalho obrigatório no topo de todo Markdown fonte:**
+
+```
+# Guia de Estudos de Matemática — 8º Ano
+Organizado para Davi Galvani — 13 anos
+Data: <data atual>
+```
+
 ## Commands
 
 ```bash
 # Gerar PDF a partir do Markdown
+
+# 1. CSS aprovado (fixo — não altere sem aprovação explícita)
 cat > /tmp/guia-style.css << 'CSSEOF'
 body{font-family:"DejaVu Sans",sans-serif;font-size:11pt;line-height:1.65;max-width:800px;margin:0 auto;padding:2em;color:#222}
 h1{font-size:1.8em;margin-top:1.5em;margin-bottom:.3em}
@@ -31,6 +47,9 @@ li{margin-bottom:.25em}
 @media print{body{max-width:100%;padding:0}a{color:#2563eb}}
 CSSEOF
 
+# 2. Gerar HTML com pandoc
+#    --metadata pagetitle define a tag <title> (sem gerar bloco de título visível).
+#    NUNCA use --metadata title= (gera cabeçalho duplicado no HTML).
 DATA=$(date +%F)
 pandoc guia-estudos-matematica-${DATA}.md \
   -s --standalone \
@@ -38,6 +57,7 @@ pandoc guia-estudos-matematica-${DATA}.md \
   --css /tmp/guia-style.css \
   -o /tmp/guia.html
 
+# 3. Pós-processar HTML (embutir CSS, remover title-block-header duplicado)
 python3 << 'PYEOF'
 import re
 with open('/tmp/guia.html','r') as f: html = f.read()
@@ -48,15 +68,18 @@ html = re.sub(r'<header id="title-block-header">.*?</header>\s*', '', html, flag
 with open('/tmp/guia.html','w') as f: f.write(html)
 PYEOF
 
+# 4. Converter HTML para PDF com Chromium headless
+#    --no-pdf-header-footer evita cabeçalho/rodapé automáticos.
+#    Links (sumário, YouTube) são preservados no PDF.
 chromium --headless --disable-gpu \
   --print-to-pdf=guia-estudos-matematica-${DATA}.pdf \
   --no-pdf-header-footer \
   /tmp/guia.html
 
-# Verificar
+# 5. Verificar rápido
 pdfinfo guia-estudos-matematica-${DATA}.pdf | grep -E "Pages|Title"
 
-# Verificar qualidade pós-geração
+# 6. Abrir para inspeção visual
 chromium guia-estudos-matematica-${DATA}.pdf
 ```
 
@@ -64,19 +87,22 @@ chromium guia-estudos-matematica-${DATA}.pdf
 
 ```
 ~/dev/tarefas-davi/
-  README.md                       ← Pipeline completo e regras de Markdown
-  AGENTS.md                       ← Este arquivo
-  guia-estudos-matematica-YYYY-MM-DD.md   ← Fontes com data
-  guia-estudos-matematica-YYYY-MM-DD.pdf  ← PDFs gerados com data
+  README.md                                    ← capa do projeto
+  AGENTS.md                                    ← este arquivo (fonte da verdade)
+  guia-estudos-matematica-YYYY-MM-DD.md        ← fonte Markdown (com data)
+  guia-estudos-matematica-YYYY-MM-DD.pdf       ← PDF gerado (com data)
 ```
 
-A fonte da verdade para regras de conteúdo é o `README.md`. O `AGENTS.md`
-contém as instruções operacionais. Ambos devem ser lidos antes de qualquer tarefa.
+O `AGENTS.md` é a fonte da verdade para regras de conteúdo, pipeline e
+convenções. O `README.md` é a capa do projeto (descrição curta, pré-requisitos,
+uso resumido). Ambos devem ser lidos antes de qualquer tarefa.
 
-## Code Style (Markdown)
+## Markdown Content Rules
 
 O estilo de Markdown aprovado pelo Galvani. Todo conteúdo novo deve seguir
-estas regras exatas. Exemplo bom vs. ruim:
+estas regras exatas.
+
+### Exemplo bom vs. ruim
 
 ```markdown
 ### Bom — parágrafo fluido, acentos, didático
@@ -99,15 +125,131 @@ Essas letras sao **variaveis**.
 2x + 3 representa "o numero que nao sei".
 ```
 
-Regras:
-- Zero emojis. Zero HTML (`<details>`, `<div>`, `<summary>`).
-- Português com acentuação completa: ç, ã, õ, á, é, í, ó, ú, â, ê, ô, à.
-- Sem quebras de linha forçadas (double-space no fim de linha).
-- Sem `---` como separador (vira `<hr>` e polui o PDF).
-- Teoria didática e longa: explique o porquê, use analogias, mostre passo a passo.
-- Cada bloco: `# Bloco N — Nome` > `## Teoria` > `## Exercícios — Bloco N` > `## Vídeos — Bloco N`.
-- Todos os gabaritos concentrados no final em `# Gabaritos`.
-- Sumário com links usando IDs do pandoc (minúsculas, espaços=hífens, sem pontuação).
+### Português e acentuação
+
+Use **sempre** português brasileiro com acentuação completa:
+ç, Ç, ã, Ã, õ, Õ, á, é, í, ó, ú, Á, É, Í, Ó, Ú, â, ê, î, ô, û, à, À.
+
+Jamais escreva sem acentos. Jamais use caracteres ingleses no lugar
+(ex: "nao" em vez de "não", "fracao" em vez de "fração").
+
+### Proibições
+
+- **Zero emojis.** Nem ✅ nem 📖 nem 🧮. Substitua por texto ou remova.
+- **Zero HTML.** Sem `<details>`, `<summary>`, `<div>`. Markdown puro.
+- **Sem quebras de linha forçadas.** Não use double-space no fim de linha
+  para `<br>`. Deixe o parágrafo fluir. Use bullet points (`- `) para listas.
+- **Sem `---` como separador visual.** `---` vira `<hr>` no HTML e polui o PDF.
+  Use quebras de seção naturais (títulos h1, h2) em vez de linhas horizontais.
+- **Não repetir o título no metadado e no markdown.** O markdown já tem
+  `# Título`. Use `--metadata pagetitle=...` só para a tag `<title>` do HTML.
+  Jamais use `--metadata title=...` (gera cabeçalho duplicado).
+
+### Estrutura de conteúdo por bloco
+
+Cada bloco segue esta ordem fixa:
+
+```
+# Bloco N — Nome do Bloco
+
+## Teoria
+(explicação longa, didática, com exemplos passo a passo)
+
+## Exercícios — Bloco N
+(enunciados numerados)
+
+*(Gabarito na página de Gabaritos — Seção GN)*
+
+## Vídeos — Bloco N
+(lista de links em bullet points)
+```
+
+### Regras para a Teoria
+
+A teoria deve ser **longa e didática**, escrita para um aluno de 13 anos
+com dificuldade em matemática:
+
+- Explique o **porquê** de cada regra, não apenas a regra.
+- Use **analogias do cotidiano**: dinheiro, pizza, frutas, gavetas, balança.
+- Mostre exemplos resolvidos **passo a passo**, com cada etapa numerada.
+- Alerte sobre **erros comuns** com parágrafo iniciado por "Cuidado:" ou
+  "Erro comum:".
+- Conecte os assuntos entre blocos: "Agora você entende por que fatoração
+  é importante para simplificar frações...".
+- Tabelas de resumo no final de cada seção são bem-vindas.
+
+### Regras para os Exercícios
+
+- Numerados sequencialmente dentro de cada bloco (1., 2., 3., ...).
+- Agrupados por subtópico com subtítulos em **negrito**.
+- Cada bloco tem de **6 a 16 exercícios**, do mais fácil ao mais difícil.
+- Os **2-3 últimos** de cada bloco são "mistos" — exigem identificar qual
+  técnica usar entre as aprendidas no bloco.
+- Após o último exercício, incluir a indicação:
+  `*(Gabarito na página de Gabaritos — Seção GN)*` onde GN é o número do bloco.
+
+### Regras para os Gabaritos
+
+- **Todos** os gabaritos concentrados no **final do documento**, depois de
+  um `# Gabaritos`.
+- Cada seção de gabarito: `## GN — Gabarito do Bloco N (Nome)`.
+  Exemplo: `## G3 — Gabarito do Bloco 3 (Produtos Notáveis)`.
+- Cada resposta inclui o **desenvolvimento completo**, não só o resultado final.
+- Resultado final em **negrito**.
+
+### Regras para o Sumário
+
+O sumário usa links Markdown com os IDs que o pandoc **vai gerar**.
+Os IDs do pandoc seguem estas regras:
+
+- Tudo em **minúsculas**.
+- Espaços viram **hífens**.
+- Acentos e ç são **preservados**.
+- Pontuação (:, —, ?, !, etc.) é **removida**.
+
+Exemplo de mapeamento:
+
+| Título no Markdown | ID gerado pelo pandoc |
+|---|---|
+| `# Bloco 3 — Produtos Notáveis` | `bloco-3-produtos-notáveis` |
+| `## Teoria` | `teoria` |
+| `## Exercícios — Bloco 3` | `exercícios-bloco-3` |
+| `# Gabaritos` | `gabaritos` |
+| `## G3 — Gabarito do Bloco 3 (Produtos Notáveis)` | `g3-gabarito-do-bloco-3-produtos-notáveis` |
+
+Link no sumário:
+```markdown
+- [Bloco 3 — Produtos Notáveis](#bloco-3-produtos-notáveis)
+  - [Teoria](#teoria)
+  - [Exercícios](#exercícios-bloco-3)
+  - [Vídeos](#vídeos-bloco-3)
+```
+
+### Regras para Vídeos e links externos
+
+- Use bullet points: `- [texto descritivo](URL completa)`
+- Sempre inclua o **nome do canal** no texto do link.
+  Exemplo: `- [Nome da Aula — Canal](https://...)`
+- URLs devem ser completas (com `https://`).
+- Prefira canais brasileiros de matemática: **Gis com Giz**, **Ferretto**,
+  **Sandro Curió**, **Marcos Aba**.
+
+## Checklist para novos materiais
+
+Antes de gerar o PDF de um novo guia:
+
+- [ ] Cabeçalho: "# Guia de Estudos de Matemática — 8º Ano" e "Organizado para Davi Galvani — 13 anos"
+- [ ] Markdown sem emojis, sem HTML, sem `---` separadores
+- [ ] Português com acentuação completa (ç, ã, õ, á, é, í, ó, ú, â, ê, ô, à)
+- [ ] Teoria didática e longa, com exemplos passo a passo, analogias e alertas de erros comuns
+- [ ] Cada bloco com `# Bloco N`, `## Teoria`, `## Exercícios — Bloco N`, `## Vídeos — Bloco N`
+- [ ] Exercícios: 6 a 16 por bloco, numerados, últimos 2-3 mistos
+- [ ] Indicação `*(Gabarito na página de Gabaritos — Seção GN)*` após cada bloco de exercícios
+- [ ] Todos os gabaritos no final, seção `# Gabaritos`, com desenvolvimento completo
+- [ ] Sumário com links usando IDs corretos do pandoc (minúsculas, hífens, sem pontuação)
+- [ ] Vídeos com links completos e nome do canal (preferir Gis com Giz, Ferretto, Sandro Curió)
+- [ ] PDF gerado pelo pipeline acima (pandoc → postprocess → chromium)
+- [ ] Verificação de qualidade executada (pdfinfo, pdftotext, inspeção visual)
 
 ## Testing
 
@@ -148,13 +290,13 @@ chromium guia-estudos-matematica-${DATA}.pdf
 
 ### ✅ Always
 
-- Ler `README.md` e `AGENTS.md` antes de qualquer tarefa neste diretório.
-- Usar o pipeline exato documentado (pandoc → postprocess Python → chromium).
-- Usar o CSS aprovado (sem bordas em h1, hr escondido).
+- Seguir o pipeline exato documentado (pandoc → postprocess Python → chromium).
+- Usar o CSS aprovado na seção Commands (sem bordas em h1, hr escondido).
 - Escrever em português brasileiro com acentuação completa.
 - Teoria didática e longa, para aluno de 13 anos com dificuldade.
 - Gabaritos concentrados no final do documento.
 - Verificar o PDF com `pdfinfo` e `pdftotext` após gerar.
+- Passar pelo checklist de novos materiais antes de finalizar.
 
 ### ⚠️ Ask first
 
@@ -169,7 +311,7 @@ chromium guia-estudos-matematica-${DATA}.pdf
 - Usar tags HTML no Markdown (`<details>`, `<summary>`, `<div>`).
 - Usar `---` como separador visual dentro do conteúdo.
 - Escrever sem acentos ou com caracteres ingleses no lugar (ex: "nao", "fracao").
-- Usar `--metadata title=...` no pandoc (gera标题 duplicado). Use `--metadata pagetitle=...`.
+- Usar `--metadata title=...` no pandoc (gera cabeçalho duplicado). Use `--metadata pagetitle=...`.
 - Gerar PDF com pandoc + LaTeX (xelatex/pdflatex). Sempre use pandoc → HTML → Chromium.
 - Deixar `<header id="title-block-header">` no HTML final.
 - Commitar arquivos de `/tmp/`.
