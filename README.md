@@ -1,20 +1,12 @@
 # tarefas-davi
 
 Material didático de matemática para o Davi Galvani (13 anos, 8º ano).
-Markdown → pandoc → HTML pós-processado → Chromium headless → PDF.
 
-Pipeline determinístico: um arquivo Markdown fonte vira PDF com sumário
-clicável, vídeos do YouTube referenciados e tipografia limpa. As regras de
-conteúdo, o CSS aprovado e os comandos completos estão em
+Cada guia é escrito em português brasileiro, com teoria longa e didática,
+exercícios por bloco e gabaritos com desenvolvimento completo.
+
+O pipeline é determinístico: um arquivo Markdown fonte é convertido a PDF
+com tipografia limpa, sumário clicável e vídeos do YouTube referenciados.
+
+As regras de conteúdo, o CSS aprovado e os comandos de geração estão em
 [`AGENTS.md`](AGENTS.md).
-
-## Pré-requisitos
-
-- [pandoc](https://pandoc.org/) ≥ 3.0
-- [Chromium](https://www.chromium.org/) (headless)
-- Python 3
-
-```bash
-which pandoc && pandoc --version | head -1
-which chromium
-```
