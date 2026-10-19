@@ -8,5 +8,6 @@ exercícios por bloco e gabaritos com desenvolvimento completo.
 O pipeline é determinístico: um arquivo Markdown fonte é convertido a PDF
 com tipografia limpa, sumário clicável e vídeos do YouTube referenciados.
 
-As regras de conteúdo, o CSS aprovado e os comandos de geração estão em
-[`AGENTS.md`](AGENTS.md).
+As regras de conteúdo e os comandos de geração estão em
+[`AGENTS.md`](AGENTS.md). A formatação dos PDFs é centralizada em
+[`guia-style.css`](guia-style.css).

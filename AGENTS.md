@@ -13,7 +13,7 @@ Assuntos usados: `matematica`, `portugues`, `ciencias`.
 Use `date +%F` para obter a data. O `.md` fonte e o `.pdf` gerado formam um
 par atômico — ambos são commitados juntos.
 
-## 1. Pipeline de geração (execute exatamente)
+## 1. Pipeline de geração (execute exatamente, na raiz do projeto)
 
 ```bash
 DATA=$(date +%F)
@@ -22,41 +22,21 @@ TITULO="Guia de Estudos de Lingua Portuguesa - Davi Galvani - 8 Ano"
 MD="guia-estudos-${ASSUNTO}-${DATA}.md"
 PDF="guia-estudos-${ASSUNTO}-${DATA}.pdf"
 
-# CSS canônico. Copie exatamente este bloco.
-# A formatação resultante está documentada na seção 7.
-cat > /tmp/guia-style.css << 'CSSEOF'
-body{font-family:"DejaVu Sans",sans-serif;font-size:11pt;line-height:1.65;max-width:800px;margin:0 auto;padding:2em;color:#222}
-h1{font-size:1.8em;margin-top:1.5em;margin-bottom:.3em}
-h2{font-size:1.4em;color:#1e40af;margin-top:1.8em}
-h3{font-size:1.15em;color:#1e3a5f;margin-top:1.3em}
-h4{font-size:1.05em;color:#334155;margin-top:1em}
-a{color:#2563eb;text-decoration:none}
-a:hover{text-decoration:underline}
-table{border-collapse:collapse;width:100%;margin:1em 0}
-th,td{border:1px solid #cbd5e1;padding:6px 10px;text-align:left}
-th{background:#f1f5f9;font-weight:bold}
-code{background:#f1f5f9;padding:1px 4px;border-radius:3px;font-size:.95em}
-strong{color:#1e3a5f}
-hr{display:none}
-blockquote{border-left:3px solid #93c5fd;margin:1em 0;padding:.5em 1em;background:#f8fafc}
-ul,ol{padding-left:1.5em}
-li{margin-bottom:.25em}
-ol li::marker{font-weight:bold}
-@media print{body{max-width:100%;padding:0}ol{padding-left:2.5em}a{color:#2563eb}}
-CSSEOF
+# O CSS canônico está em guia-style.css, na raiz do projeto.
+# Não duplique o CSS neste arquivo.
 
 # 1. Markdown → HTML
 pandoc "${MD}" -s --standalone \
   --metadata pagetitle="${TITULO}" \
-  --css /tmp/guia-style.css -o /tmp/guia.html
+  --css guia-style.css -o /tmp/guia.html
 
 # 2. Pós-processamento do HTML
 python3 << 'PYEOF'
 import re
 with open('/tmp/guia.html','r') as f: html = f.read()
-with open('/tmp/guia-style.css','r') as f: css = f.read()
+with open('guia-style.css','r') as f: css = f.read()
 # Embutir CSS inline
-html = html.replace('<link rel="stylesheet" href="/tmp/guia-style.css" />',f'<style>\n{css}\n</style>')
+html = html.replace('<link rel="stylesheet" href="guia-style.css" />',f'<style>\n{css}\n</style>')
 # Remover header de título duplicado que o pandoc injeta
 html = re.sub(r'<header id="title-block-header">.*?</header>\s*','',html,flags=re.DOTALL)
 with open('/tmp/guia.html','w') as f: f.write(html)
@@ -222,6 +202,7 @@ Canais preferenciais por área:
 ~/dev/tarefas-davi/
   AGENTS.md
   README.md
+  guia-style.css
   guia-estudos-matematica-YYYY-MM-DD.md
   guia-estudos-matematica-YYYY-MM-DD.pdf
   guia-estudos-portugues-YYYY-MM-DD.md
@@ -304,7 +285,7 @@ git push origin main
 
 - Ler este AGENTS.md inteiro antes de qualquer tarefa.
 - Pipeline exato: pandoc → postprocess Python → Chromium.
-- CSS canônico copiado deste arquivo; a formatação está na seção 7.
+- CSS canônico em `guia-style.css`; a formatação está na seção 7.
 - Português brasileiro com acentuação completa.
 - Teoria longa e didática, com exemplos passo a passo.
 - Gabaritos concentrados no final do documento.
@@ -313,7 +294,7 @@ git push origin main
 
 ### Perguntar antes
 
-- Mudar o CSS fora de correção de bug de formatação.
+- Mudar `guia-style.css` fora de correção de bug de formatação.
 - Alterar o pipeline (pandoc, postprocess, chromium).
 - Adicionar imagens, gráficos ou diagramas.
 - Mudar o tom ou nível de detalhe da teoria.
@@ -330,10 +311,12 @@ git push origin main
 - Commitar arquivos de `/tmp/`.
 - Guias sem data no nome (ex: `guia-estudos-matematica.pdf`).
 - Deixar marcador de lista cortado ou sem negrito.
+- Duplicar o CSS no `AGENTS.md` ou no comando do pandoc.
 
 ## 7. Formatação canônica do PDF
 
-O CSS do item 1 é a fonte única da formatação. Não crie CSS paralelo.
+O arquivo `guia-style.css` é a fonte única da formatação. Não crie CSS paralelo
+nem duplique o CSS no `AGENTS.md`.
 
 ### 7.1 Página e texto
 
