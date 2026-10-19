@@ -1673,7 +1673,7 @@ d) "É preciso informar, conscientizar, exigir."
 9. "Infelizmente" revela que o autor **lamenta** o rumo das discussões; é uma marca de **opinião**.
 10. O conectivo "Por outro lado" introduz uma **contraposição** ou a apresentação de **outro aspecto** do debate: o celular também pode ser útil.
 11. A palavra "máquina" está empregada em sentido **conotativo**. O aluno não é uma máquina literal; a comparação sugere que ele **produz muitas perguntas**, como uma máquina produz objetos.
-12. a) **Setembro**, com 180 empréstimos.
+12. **a)** **Setembro**, com 180 empréstimos.
 b) 180 − 120 = **60 empréstimos**.
 c) Houve **queda** de setembro para outubro (de 180 para 150), mas o número continuou **acima** do registrado em agosto.
 
@@ -1684,7 +1684,7 @@ c) Houve **queda** de setembro para outubro (de 180 para 150), mas o número con
 3. Sugestão: "Um incêndio atingiu o galpão de reciclagem da Cooperativa Boa Vista, em Campinas, na tarde de ontem, sem deixar feridos."
 4. É **fato**, porque pode ser verificado junto ao Corpo de Bombeiros e às pessoas presentes.
 5. Porque **atribui a informação à fonte**. O leitor sabe de onde veio o dado, e o jornal mostra que não inventou a informação.
-6. a) **Notícia**. b) **Reportagem**. c) **Notícia** (uma nota). d) **Reportagem investigativa**.
+6. **a)** **Notícia**. **b)** **Reportagem**. **c)** **Notícia** (uma nota). **d)** **Reportagem investigativa**.
 7. Resposta possível: a notícia é **curta** e produzida **rapidamente**; a reportagem é **longa** e leva **dias ou semanas**; a notícia ouve **poucas fontes** e a reportagem ouve **várias fontes** e confronta versões. Também vale citar a estrutura: pirâmide invertida na notícia, blocos temáticos na reportagem.
 8. "**O prefeito inaugurou a nova escola.**" A palavra "brilhante" foi retirada porque é uma avaliação.
 9. Verificar **quem publicou**, **quando**, **qual é a fonte original**, se **outros veículos confiáveis** noticiaram o mesmo fato, se há **link para a lei** ou para o órgão oficial e se a imagem corresponde ao acontecimento. Sem essas confirmações, não compartilhar.
@@ -1694,87 +1694,87 @@ c) Houve **queda** de setembro para outubro (de 180 para 150), mas o número con
 
 ## G3 — Gabarito do Bloco 3 (Concordância nominal)
 
-1. a) **estudosas**; b) **atencioso**; c) **novos**; d) **difícil**.
-2. a) "**novo**" ou "**novos**" são aceitos. "Novo" concorda com o substantivo mais próximo ("caneta"); "novos" abrange os dois substantivos. b) "**novo**", porque o adjetivo vem antes e concorda com o substantivo mais próximo ("livro").
-3. a) **É proibido** entrada de animais no refeitório. (sem artigo) b) **É proibida** a entrada de animais no refeitório. (com artigo) c) **É proibido** visitas neste horário. (sem artigo)
-4. a) **meia** (metade da pizza); b) **meio** (um pouco cansada); c) **meia** (metade de uma hora); d) **meio** (um pouco aberta).
-5. a) **bastantes** (muitas cadeiras); b) **bastante** (muito, modifica o verbo); c) **bastante** (muito, modifica o adjetivo); d) **bastantes** (muitos cadernos).
-6. a) **caras** (adjetivo); b) **caro** (advérbio, modifica "custaram"); c) **barato** (advérbio, modifica "saiu"); d) **caras** (adjetivo).
-7. a) **sós** (sozinhos); b) **Só** (somente); c) **só** (sozinha); d) **Só** (somente).
-8. a) Seguem **anexas** as fotografias. b) Elas são **bastante** inteligentes. c) Havia **menos** pessoas na fila. d) Ela está **meio** nervosa. e) É **proibida** a entrada.
-9. a) Davi disse: **obrigado**. b) Ana disse: **obrigada**. c) Eles disseram: **obrigados**.
-10. a) Há **duas camisas**: uma azul e uma branca. b) Há **várias camisas**, de duas cores (azuis e brancas).
-11. a) Segue **anexa** a foto do documento. b) Seguem **anexos** os documentos. c) As planilhas estão **anexas** ao e-mail. d) O arquivo está **anexo** na pasta.
-12. a) Os alunos estavam **meio** atrasados e **bastante** cansados. b) A professora disse **obrigada** e entregou as provas. c) Comprei **novos** livros e canetas. d) A frase já está correta: "Havia menos alunos na aula de hoje."
+1. **a)** **estudosas**; **b)** **atencioso**; **c)** **novos**; **d)** **difícil**.
+2. **a)** "**novo**" ou "**novos**" são aceitos. "Novo" concorda com o substantivo mais próximo ("caneta"); "novos" abrange os dois substantivos. **b)** "**novo**", porque o adjetivo vem antes e concorda com o substantivo mais próximo ("livro").
+3. **a)** **É proibido** entrada de animais no refeitório. (sem artigo) **b)** **É proibida** a entrada de animais no refeitório. (com artigo) **c)** **É proibido** visitas neste horário. (sem artigo)
+4. **a)** **meia** (metade da pizza); **b)** **meio** (um pouco cansada); **c)** **meia** (metade de uma hora); **d)** **meio** (um pouco aberta).
+5. **a)** **bastantes** (muitas cadeiras); **b)** **bastante** (muito, modifica o verbo); **c)** **bastante** (muito, modifica o adjetivo); **d)** **bastantes** (muitos cadernos).
+6. **a)** **caras** (adjetivo); **b)** **caro** (advérbio, modifica "custaram"); **c)** **barato** (advérbio, modifica "saiu"); **d)** **caras** (adjetivo).
+7. **a)** **sós** (sozinhos); **b)** **Só** (somente); **c)** **só** (sozinha); **d)** **Só** (somente).
+8. **a)** Seguem **anexas** as fotografias. **b)** Elas são **bastante** inteligentes. **c)** Havia **menos** pessoas na fila. **d)** Ela está **meio** nervosa. **e)** É **proibida** a entrada.
+9. **a)** Davi disse: **obrigado**. **b)** Ana disse: **obrigada**. **c)** Eles disseram: **obrigados**.
+10. **a)** Há **duas camisas**: uma azul e uma branca. **b)** Há **várias camisas**, de duas cores (azuis e brancas).
+11. **a)** Segue **anexa** a foto do documento. **b)** Seguem **anexos** os documentos. **c)** As planilhas estão **anexas** ao e-mail. **d)** O arquivo está **anexo** na pasta.
+12. **a)** Os alunos estavam **meio** atrasados e **bastante** cansados. **b)** A professora disse **obrigada** e entregou as provas. **c)** Comprei **novos** livros e canetas. **d)** A frase já está correta: "Havia menos alunos na aula de hoje."
 
 ## G4 — Gabarito do Bloco 4 (Acento diferencial)
 
-1. a) **pôde** (passado); b) **pode** (presente); c) **pôde** (passado); d) **pode** (presente).
-2. a) **pôr** (verbo); b) **por** (preposição); c) **pôr** (verbo); d) **por** (preposição).
-3. a) **tem** (singular); b) **têm** (plural); c) **tem** (singular); d) **têm** (plural).
-4. a) **vem** (singular); b) **vêm** (plural); c) **vem** (singular); d) **vêm** (plural).
-5. a) **contém** (singular); b) **contêm** (plural); c) **contém** (singular); d) **contêm** (plural).
-6. a) **fôrma** (molde); b) **forma** (aparência); c) **fôrma** (recipiente); d) **forma** (formato).
-7. a) **Por que** (pergunta); b) **porque** (explicação); c) **por quê** (final de frase); d) **porquê** (substantivo, motivo).
-8. a) Ele **para** o carro na garagem. b) O **polo** industrial cresceu. c) O **voo** atrasou duas horas. d) Ele **pela** a laranja com facilidade.
-9. a) **conserto** (reparo); b) **concerto** (apresentação musical); c) **conserto** (reparo); d) **concerto** (apresentação musical).
+1. **a)** **pôde** (passado); **b)** **pode** (presente); **c)** **pôde** (passado); **d)** **pode** (presente).
+2. **a)** **pôr** (verbo); **b)** **por** (preposição); **c)** **pôr** (verbo); **d)** **por** (preposição).
+3. **a)** **tem** (singular); **b)** **têm** (plural); **c)** **tem** (singular); **d)** **têm** (plural).
+4. **a)** **vem** (singular); **b)** **vêm** (plural); **c)** **vem** (singular); **d)** **vêm** (plural).
+5. **a)** **contém** (singular); **b)** **contêm** (plural); **c)** **contém** (singular); **d)** **contêm** (plural).
+6. **a)** **fôrma** (molde); **b)** **forma** (aparência); **c)** **fôrma** (recipiente); **d)** **forma** (formato).
+7. **a)** **Por que** (pergunta); **b)** **porque** (explicação); **c)** **por quê** (final de frase); **d)** **porquê** (substantivo, motivo).
+8. **a)** Ele **para** o carro na garagem. **b)** O **polo** industrial cresceu. **c)** O **voo** atrasou duas horas. **d)** Ele **pela** a laranja com facilidade.
+9. **a)** **conserto** (reparo); **b)** **concerto** (apresentação musical); **c)** **conserto** (reparo); **d)** **concerto** (apresentação musical).
 10. **pôde** é o pretérito perfeito: indica ação concluída no passado. Exemplo: "Ontem ele **pôde** sair mais cedo." **pode** é o presente: indica possibilidade atual. Exemplo: "Hoje ele **pode** sair mais cedo."
 11. **têm** é a terceira pessoa do plural: "Eles **têm** dois irmãos." **tem** é a terceira pessoa do singular: "Ele **tem** dois irmãos."
-12. a) Ele não **pôde** comparecer à reunião ontem. b) Os livros **contêm** exercícios variados. c) É preciso **pôr** as regras no quadro. d) Ele **vem** de uma família de músicos.
+12. **a)** Ele não **pôde** comparecer à reunião ontem. **b)** Os livros **contêm** exercícios variados. **c)** É preciso **pôr** as regras no quadro. **d)** Ele **vem** de uma família de músicos.
 
 ## G5 — Gabarito do Bloco 5 (Concordância verbal)
 
-1. a) Sujeito: **Os alunos**. Verbo: **chegaram**. b) Sujeito: **A turma**. Verbo: **participou**. c) Sujeito: **O professor de matemática**. Verbo: **explicou**. d) Sujeito: **As provas**. Verbo: **eram**.
-2. a) **estudam**. b) **Chegaram** (ou **Chegou**, concordando com o núcleo mais próximo; as duas formas são aceitas). c) **vamos**. d) **vão**.
-3. a) **vai** (exclusão: apenas um). b) **vão** (inclusão: os dois). c) **vai** (exclusão: apenas um). d) **incomodam** (inclusão: os dois).
-4. a) **foram**. b) **entrou** (concorda com "o professor"). c) **participaram**. d) **são**.
-5. a) **Havia**. b) **Havia**. c) **Havia**. d) **Havia**.
-6. a) **Existiam**. b) **Existia**. c) **Existiam**. d) **Existia**.
-7. a) **Faz**. b) **Faz**. c) **Faz**. d) **Faz**.
-8. a) **É**. b) **São**. c) **São**. d) **é** (ou **são**; as duas formas são aceitas).
-9. a) **Vendem-se** casas no centro. b) **Vende-se** casa no centro. c) **Alugam-se** apartamentos mobiliados. d) **Precisa-se** de médicos no hospital.
-10. a) **estudaram**. b) **faltou**. c) **recebeu**. d) **reclamaram**.
-11. a) **fiz**. b) **fez**. c) **fizeram**. d) **fez**.
-12. a) **Havia** muitos alunos na sala. b) **Faz** dois anos que ele saiu. c) **Precisa-se** de voluntários. d) **Vendem-se** casas. e) Mais de um aluno **faltou**.
+1. **a)** Sujeito: **Os alunos**. Verbo: **chegaram**. **b)** Sujeito: **A turma**. Verbo: **participou**. **c)** Sujeito: **O professor de matemática**. Verbo: **explicou**. **d)** Sujeito: **As provas**. Verbo: **eram**.
+2. **a)** **estudam**. **b)** **Chegaram** (ou **Chegou**, concordando com o núcleo mais próximo; as duas formas são aceitas). **c)** **vamos**. **d)** **vão**.
+3. **a)** **vai** (exclusão: apenas um). **b)** **vão** (inclusão: os dois). **c)** **vai** (exclusão: apenas um). **d)** **incomodam** (inclusão: os dois).
+4. **a)** **foram**. **b)** **entrou** (concorda com "o professor"). **c)** **participaram**. **d)** **são**.
+5. **a)** **Havia**. **b)** **Havia**. **c)** **Havia**. **d)** **Havia**.
+6. **a)** **Existiam**. **b)** **Existia**. **c)** **Existiam**. **d)** **Existia**.
+7. **a)** **Faz**. **b)** **Faz**. **c)** **Faz**. **d)** **Faz**.
+8. **a)** **É**. **b)** **São**. **c)** **São**. **d)** **é** (ou **são**; as duas formas são aceitas).
+9. **a)** **Vendem-se** casas no centro. **b)** **Vende-se** casa no centro. **c)** **Alugam-se** apartamentos mobiliados. **d)** **Precisa-se** de médicos no hospital.
+10. **a)** **estudaram**. **b)** **faltou**. **c)** **recebeu**. **d)** **reclamaram**.
+11. **a)** **fiz**. **b)** **fez**. **c)** **fizeram**. **d)** **fez**.
+12. **a)** **Havia** muitos alunos na sala. **b)** **Faz** dois anos que ele saiu. **c)** **Precisa-se** de voluntários. **d)** **Vendem-se** casas. **e)** Mais de um aluno **faltou**.
 
 ## G6 — Gabarito do Bloco 6 (Reportagem investigativa)
 
 1. A **notícia** relata um fato novo de forma curta e objetiva. A **reportagem** aprofunda o fato, com contexto e várias fontes. A **reportagem investigativa** parte de uma hipótese e busca documentos, provas e testemunhas para revelar algo de interesse público que estava oculto.
 2. **Pauta → hipótese → apuração → checagem → redação → publicação.**
-3. a) **Primária**. b) **Oficial** (também pode ser classificada como documental). c) **Secundária**. d) **Primária**.
+3. **a)** **Primária**. **b)** **Oficial** (também pode ser classificada como documental). **c)** **Secundária**. **d)** **Primária**.
 4. O repórter deve **verificar as acusações com documentos e outras fontes**, **ouvir a pessoa acusada**, **proteger a identidade da fonte** e **não publicar sem evidências**. O anonimato não substitui a apuração.
 5. Precisaria de **dados sobre a qualidade e o valor nutricional** da merenda, **cardápios**, **contratos com fornecedores**, **relatórios de nutricionistas**, **reclamações de estudantes**, **entrevistas** com alunos, direção, empresa e especialistas, além de **comparação com normas** e com períodos anteriores.
 6. Resposta pessoal. Um exemplo: tema "desperdício de água na escola"; pergunta "por que o banheiro do pátio tem vazamentos há três meses?"; fontes: diretor, zelador, alunos e empresa de manutenção; documentos: ordens de serviço, contas de água e relatórios de manutenção.
 7. Sugestões: "Quantos litros de água a escola consome por mês?" "Já foi feito algum levantamento de vazamentos?" "Quem é responsável pelo conserto?" "Quanto custaria resolver o problema?" "Que medida pode ser tomada enquanto o conserto não chega?"
 8. **Contraditório** é o direito de a pessoa citada apresentar sua versão antes da publicação. Ele garante **justiça**, evita reportagens de um só lado e aumenta a **credibilidade** do texto.
-9. a) A revelação principal é que a Prefeitura **conhecia os pontos de descarte irregular desde 2023** e ainda não havia resolvido o problema. b) As evidências são **quatro meses de acompanhamento**, **27 dias de observação**, **14 pontos registrados** e **documentos obtidos pela Lei de Acesso à Informação**. c) Foram ouvidas a **Secretaria de Meio Ambiente** e **especialistas**; a observação também é uma fonte direta. d) **Sim**: a Secretaria foi procurada e informou que um plano está em elaboração, sem prazo.
+9. **a)** A revelação principal é que a Prefeitura **conhecia os pontos de descarte irregular desde 2023** e ainda não havia resolvido o problema. **b)** As evidências são **quatro meses de acompanhamento**, **27 dias de observação**, **14 pontos registrados** e **documentos obtidos pela Lei de Acesso à Informação**. **c)** Foram ouvidas a **Secretaria de Meio Ambiente** e **especialistas**; a observação também é uma fonte direta. **d)** **Sim**: a Secretaria foi procurada e informou que um plano está em elaboração, sem prazo.
 10. Verificar se existe a **reportagem original**, **quem publicou**, **quando**, **qual veículo**, se há **link**, **documentos** e **resposta da escola**. Uma postagem sem fonte verificável não é prova. Também é preciso checar se o texto não distorce a reportagem.
 
 ## G7 — Gabarito do Bloco 7 (Oração, período e período composto)
 
-1. a) **Nominal** (sem verbo). b) **Verbal**. c) **Nominal**. d) **Verbal**.
-2. a) **1 oração**. b) **2 orações**. c) **2 orações**. d) **2 orações** ("disse" e "vai estudar").
-3. a) **Simples**. b) **Composto**. c) **Simples**. d) **Composto**.
-4. Sugestões: a) "Davi estudou **e passou**." b) "A escola fechou, **mas os alunos continuaram**." c) "O professor explicou a matéria **e os alunos entenderam**." d) "Ana leu o livro **e fez a resenha**."
-5. Sugestões: a) "Davi **passou**." b) "Os alunos **chegaram tarde**." c) "Ele **ia sair**." d) "Todos **aplaudiram**."
-6. a) Há **4 períodos**. b) Primeiro: **1 oração**; segundo: **1 oração** (locução verbal "saíram correndo"); terceiro: **2 orações**; quarto: **2 orações**. c) **Não há subordinação**. Todas as orações são independentes; no último período, a relação é de coordenação assindética.
-7. a) "Estudou muito**,** mas não passou." b) "O aluno que estudou passou." (sem vírgula) c) "O professor explicou a matéria**,** e os alunos fizeram perguntas." (vírgula opcional, mas recomendável porque os sujeitos são diferentes) d) "Ou estuda**,** ou brinca."
-8. a) **Subordinada** (completa o sentido de "espero"). b) **Coordenada** (aditiva). c) **Subordinada** (temporal). d) **Subordinada** (completa o sentido de "disse").
-9. Respostas pessoais. Exemplos: a) Simples: "A escola abriu cedo." Composto: "A escola abriu cedo e os alunos entraram." b) Simples: "Davi leu o livro." Composto: "Davi leu o livro e escreveu a resenha." c) Simples: "Estude trinta minutos." Composto: "Estude trinta minutos e faça uma pausa."
-10. a) **2 verbos** ("abriu" e "aproveitaram"). b) **2 orações**. c) **Composto**. d) **Coordenação** (aditiva).
+1. **a)** **Nominal** (sem verbo). **b)** **Verbal**. **c)** **Nominal**. **d)** **Verbal**.
+2. **a)** **1 oração**. **b)** **2 orações**. **c)** **2 orações**. **d)** **2 orações** ("disse" e "vai estudar").
+3. **a)** **Simples**. **b)** **Composto**. **c)** **Simples**. **d)** **Composto**.
+4. Sugestões: **a)** "Davi estudou **e passou**." **b)** "A escola fechou, **mas os alunos continuaram**." **c)** "O professor explicou a matéria **e os alunos entenderam**." **d)** "Ana leu o livro **e fez a resenha**."
+5. Sugestões: **a)** "Davi **passou**." **b)** "Os alunos **chegaram tarde**." **c)** "Ele **ia sair**." **d)** "Todos **aplaudiram**."
+6. **a)** Há **4 períodos**. **b)** Primeiro: **1 oração**; segundo: **1 oração** (locução verbal "saíram correndo"); terceiro: **2 orações**; quarto: **2 orações**. **c)** **Não há subordinação**. Todas as orações são independentes; no último período, a relação é de coordenação assindética.
+7. **a)** "Estudou muito**,** mas não passou." **b)** "O aluno que estudou passou." (sem vírgula) **c)** "O professor explicou a matéria**,** e os alunos fizeram perguntas." (vírgula opcional, mas recomendável porque os sujeitos são diferentes) **d)** "Ou estuda**,** ou brinca."
+8. **a)** **Subordinada** (completa o sentido de "espero"). **b)** **Coordenada** (aditiva). **c)** **Subordinada** (temporal). **d)** **Subordinada** (completa o sentido de "disse").
+9. Respostas pessoais. Exemplos: **a)** Simples: "A escola abriu cedo." Composto: "A escola abriu cedo e os alunos entraram." **b)** Simples: "Davi leu o livro." Composto: "Davi leu o livro e escreveu a resenha." **c)** Simples: "Estude trinta minutos." Composto: "Estude trinta minutos e faça uma pausa."
+10. **a)** **2 verbos** ("abriu" e "aproveitaram"). **b)** **2 orações**. **c)** **Composto**. **d)** **Coordenação** (aditiva).
 11. "Vou estudar" tem uma **locução verbal** ("vou estudar"), que funciona como um único núcleo verbal. "Vou estudar e vou trabalhar" tem **duas locuções verbais independentes**, portanto duas orações.
 
 ## G8 — Gabarito do Bloco 8 (Orações coordenadas)
 
-1. a) Conjunção **e**; **aditiva**. b) Conjunção **mas**; **adversativa**. c) Conjunção **ou... ou**; **alternativa**. d) Conjunção **por isso**; **conclusiva**.
-2. a) **Aditiva**. b) **Adversativa**. c) **Alternativa**. d) **Explicativa**.
-3. a) "Estudou muito; **portanto**, passou." b) "Queria sair, **mas** estava chovendo." c) "Não veio, **porque** estava doente." d) "**Ou** você estuda, **ou** você trabalha."
-4. a) "Estudou muito**,** mas não passou." b) "Estudou e passou." (sem vírgula) c) "**Ou** você estuda**,** **ou** você trabalha." d) "Não veio porque estava doente." (sem vírgula)
-5. a) **Assindética**. b) **Sindética**. c) **Assindética**. d) **Sindética**.
-6. a) "Pois" vem **antes do verbo** e introduz uma **explicação**: ele não veio porque estava doente. b) "Pois" vem **depois do verbo** e introduz uma **conclusão**: a doença explica a ausência.
-7. a) "Estudou muito, **mas** não passou." b) "Quero **mais** tempo para terminar." c) Correta. d) Correta.
-8. a) **porque**. b) **Por que**. c) **por quê**. d) **porquê**.
-9. a) **3 orações** ("explicou", "fizeram" e "saíram"). b) "Explicou" e "fizeram" formam uma relação **sindética** (ligadas por "e"); "saíram" é **assindética**, justaposta após o ponto e vírgula. c) A relação é **aditiva**: uma informação se soma à outra.
+1. **a)** Conjunção **e**; **aditiva**. **b)** Conjunção **mas**; **adversativa**. **c)** Conjunção **ou... ou**; **alternativa**. **d)** Conjunção **por isso**; **conclusiva**.
+2. **a)** **Aditiva**. **b)** **Adversativa**. **c)** **Alternativa**. **d)** **Explicativa**.
+3. **a)** "Estudou muito; **portanto**, passou." **b)** "Queria sair, **mas** estava chovendo." **c)** "Não veio, **porque** estava doente." **d)** "**Ou** você estuda, **ou** você trabalha."
+4. **a)** "Estudou muito**,** mas não passou." **b)** "Estudou e passou." (sem vírgula) **c)** "**Ou** você estuda**,** **ou** você trabalha." **d)** "Não veio porque estava doente." (sem vírgula)
+5. **a)** **Assindética**. **b)** **Sindética**. **c)** **Assindética**. **d)** **Sindética**.
+6. **a)** "Pois" vem **antes do verbo** e introduz uma **explicação**: ele não veio porque estava doente. **b)** "Pois" vem **depois do verbo** e introduz uma **conclusão**: a doença explica a ausência.
+7. **a)** "Estudou muito, **mas** não passou." **b)** "Quero **mais** tempo para terminar." **c)** Correta. **d)** Correta.
+8. **a)** **porque**. **b)** **Por que**. **c)** **por quê**. **d)** **porquê**.
+9. **a)** **3 orações** ("explicou", "fizeram" e "saíram"). **b)** "Explicou" e "fizeram" formam uma relação **sindética** (ligadas por "e"); "saíram" é **assindética**, justaposta após o ponto e vírgula. **c)** A relação é **aditiva**: uma informação se soma à outra.
 10. Sugestões: aditiva: "Estudou e passou." Adversativa: "Estudou, mas não passou." Alternativa: "Ou estuda, ou brinca." Conclusiva: "Estudou muito; portanto, passou." Explicativa: "Estude, pois a prova é amanhã."
 11. Porque "que passou" é uma **oração subordinada consecutiva**: ela depende de "tanto" e indica a consequência. As duas orações não são independentes, portanto não há coordenação.
 
@@ -1785,8 +1785,8 @@ c) Houve **queda** de setembro para outubro (de 180 para 150), mas o número con
 3. Os argumentos são: os livros **acumulam poeira**, os estudantes perdem o direito de **ler, pesquisar e sonhar** e a falta de funcionários não pode ser usada como **desculpa permanente**.
 4. As propostas são: **reabrir a biblioteca**, **contratar um responsável** e **estabelecer um horário de funcionamento que atenda a todos**.
 5. Um recurso é a **gradação** em "ler, pesquisar e sonhar", que amplia o sentido da leitura. Outro é a **antítese** em "A leitura não é privilégio: é direito". Também há **metáfora** em "acumulam poeira", que sugere abandono.
-6. a) **Identificação do grupo**. b) **Contextualização**. c) **Argumentos**. d) **Propostas**. e) **Apelo final**.
+6. **a)** **Identificação do grupo**. **b)** **Contextualização**. **c)** **Argumentos**. **d)** **Propostas**. **e)** **Apelo final**.
 7. Sugestão: "**Nós exigimos mais árvores na escola**, pois o calor e a falta de sombra prejudicam todos."
-8. a) **Anáfora** (repetição de "Queremos"). b) **Pergunta retórica**. c) **Metáfora**. d) **Gradação**.
+8. **a)** **Anáfora** (repetição de "Queremos"). **b)** **Pergunta retórica**. **c)** **Metáfora**. **d)** **Gradação**.
 9. O **manifesto** é um texto argumentativo, coletivo, com denúncia e propostas. O **abaixo-assinado** é uma lista de assinaturas que apoiam uma causa; o texto costuma ser curto e o peso está no número de apoios.
 10. Resposta pessoal. O manifesto deve conter: **identificação do grupo**, **problema concreto**, **pelo menos dois argumentos**, **duas ou três propostas** e **apelo final**. Verifique se há "nós", verbos no presente, dados ou exemplos e um título coerente.

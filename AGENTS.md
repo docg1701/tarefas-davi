@@ -34,6 +34,7 @@ hr{display:none}
 blockquote{border-left:3px solid #93c5fd;margin:1em 0;padding:.5em 1em;background:#f8fafc}
 ul,ol{padding-left:1.5em}
 li{margin-bottom:.25em}
+ol[type="a"] li::marker{font-weight:bold}
 @media print{body{max-width:100%;padding:0}ol{padding-left:2.5em}a{color:#2563eb}}
 CSSEOF
 

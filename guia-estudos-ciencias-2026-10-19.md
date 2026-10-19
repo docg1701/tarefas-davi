@@ -899,7 +899,7 @@ e) A microbiota intestinal produz vitamina K.
 - **b)** Epidídimo: armazena e amadurece os espermatozoides.
 - **c)** Próstata: produz um líquido que neutraliza a acidez.
 
-2. a) **Falsa**. A puberdade começa em idades diferentes para cada pessoa; não há uma idade única.
+2. **a)** **Falsa**. A puberdade começa em idades diferentes para cada pessoa; não há uma idade única.
 b) **Verdadeira**.
 c) **Verdadeira**.
 d) **Falsa**. O hímen é uma membrana com variações naturais e não indica virgindade.
@@ -927,13 +927,13 @@ e) **Verdadeira**.
 
 11. Explicaria que, nos primeiros anos após a primeira menstruação, os ciclos podem ser **irregulares** porque o eixo hormonal ainda está se ajustando. Ela deve observar a duração e o fluxo, manter higiene e procurar um serviço de saúde se os ciclos forem muito longos, o sangramento for muito intenso, houver dor forte ou houver suspeita de gravidez.
 
-12. a) O fluxo representa o **ciclo menstrual**, da fase folicular até a fase lútea.
+12. **a)** O fluxo representa o **ciclo menstrual**, da fase folicular até a fase lútea.
 b) Sem fecundação, o corpo lúteo regride, a progesterona cai e o endométrio descama: acontece a **menstruação**.
 c) O **hCG**, produzido pelo embrião, mantém o corpo lúteo ativo e a progesterona alta, impedindo a menstruação.
 
 ## G2 — Gabarito do Bloco 2 (Métodos contraceptivos)
 
-1. a) **Barreira**. b) **Hormonal**. c) **Intrauterino**. d) **Comportamental**. e) **Definitivo**. f) **Hormonal**. g) **Barreira**. h) **Definitivo**.
+1. **a)** **Barreira**. **b)** **Hormonal**. **c)** **Intrauterino**. **d)** **Comportamental**. **e)** **Definitivo**. **f)** **Hormonal**. **g)** **Barreira**. **h)** **Definitivo**.
 
 2. A sequência é: **(c), (a), (b), (e), (d)**.
 
@@ -945,12 +945,12 @@ c) O **hCG**, produzido pelo embrião, mantém o corpo lúteo ativo e a progeste
 
 3. Índice de Pearl = (10 ÷ 200) × 100 = **5 gravidezes por 100 mulheres em um ano**.
 
-4. a) **Camisinha masculina ou feminina**, porque é o único método que protege contra gravidez e ISTs ao mesmo tempo.
+4. **a)** **Camisinha masculina ou feminina**, porque é o único método que protege contra gravidez e ISTs ao mesmo tempo.
 b) Um método **hormonal sem estrogênio**, como a minipílula ou o implante, após avaliação médica. A enxaqueca com aura é um fator que contraindica o estrogênio em muitas situações. O DIU de cobre também é uma opção não hormonal.
 c) **Vasectomia ou laqueadura**, métodos definitivos, após os requisitos legais e aconselhamento.
 d) **Implante subdérmico ou DIU**, porque não dependem de lembrar todos os dias.
 
-5. a) **Falsa**. A pílula do dia seguinte é um método de emergência, não de rotina.
+5. **a)** **Falsa**. A pílula do dia seguinte é um método de emergência, não de rotina.
 b) **Verdadeira**. O DIU de cobre pode ser colocado em até 5 dias após a relação desprotegida.
 c) **Verdadeira**. É o único método que protege contra ISTs.
 d) **Falsa**. Duas camisinhas aumentam o atrito e o risco de rompimento. Use apenas uma.
@@ -965,7 +965,7 @@ e) **Falsa**. A vasectomia não é eficaz imediatamente; é preciso esperar o ex
 
 7. **Dupla proteção** é o uso da camisinha junto com outro método contraceptivo, como a pílula, a injeção ou o DIU. A camisinha reduz o risco de ISTs e o outro método aumenta a proteção contra gravidez.
 
-8. a) O levonorgestrel pode ser usado em até **72 horas** após a relação, quanto antes melhor.
+8. **a)** O levonorgestrel pode ser usado em até **72 horas** após a relação, quanto antes melhor.
 b) O **DIU de cobre**, colocado em até 5 dias.
 c) **Não**. A pílula de emergência age principalmente atrasando ou impedindo a ovulação; ela não interrompe uma gravidez já estabelecida.
 
@@ -973,11 +973,11 @@ c) **Não**. A pílula de emergência age principalmente atrasando ou impedindo 
 
 10. No Brasil, a lei exige **idade mínima de 21 anos ou pelo menos dois filhos vivos**, aconselhamento e prazo de reflexão. A vasectomia não é imediata porque os espermatozoides já armazenados nos ductos podem continuar saindo no sêmen por algum tempo; é preciso um exame de confirmação.
 
-11. a) A maior diferença costuma aparecer em métodos comportamentais, como o **coito interrompido** e a **tabelinha**, e na **camisinha**, porque dependem de uso correto em todas as relações.
+11. **a)** A maior diferença costuma aparecer em métodos comportamentais, como o **coito interrompido** e a **tabelinha**, e na **camisinha**, porque dependem de uso correto em todas as relações.
 b) Porque **não dependem da rotina diária** nem de lembrar ou calcular dias férteis; a proteção é contínua.
 c) Porque é o **único método que protege contra ISTs**, além de ajudar a evitar gravidez.
 
-12. a) Ela deve tomar o comprimido assim que lembrar e, se o atraso for maior que o permitido, usar camisinha por alguns dias e procurar orientação. Se houve relação desprotegida, deve avaliar a contracepção de emergência.
+12. **a)** Ela deve tomar o comprimido assim que lembrar e, se o atraso for maior que o permitido, usar camisinha por alguns dias e procurar orientação. Se houve relação desprotegida, deve avaliar a contracepção de emergência.
 b) **Camisinha**, porque a pílula não protege contra ISTs.
 c) Ela deve procurar um serviço de saúde para avaliar a contracepção de emergência e a **PEP** para HIV, que deve ser iniciada preferencialmente em até 72 horas, além de fazer testagem de ISTs.
 
@@ -991,7 +991,7 @@ c) Ela deve procurar um serviço de saúde para avaliar a contracepção de emer
 - **d)** Tricomoníase: protozoário.
 - **b)** Gonorreia: bactéria *Neisseria gonorrhoeae*.
 
-2. a) **Falsa**. O HIV não é transmitido por picada de mosquito.
+2. **a)** **Falsa**. O HIV não é transmitido por picada de mosquito.
 b) **Verdadeira**.
 c) **Verdadeira**.
 d) **Falsa**. A candidíase não é necessariamente transmitida sexualmente; pode surgir por outros fatores.
@@ -1007,13 +1007,13 @@ e) **Verdadeira**.
 
 7. **Hepatite B**: tem vacina, transmite-se por sangue, sexo e da mãe para o bebê, e o tratamento controla a infecção. **Hepatite C**: não tem vacina, transmite-se principalmente por sangue e também por via sexual e vertical, e o tratamento com antivirais pode levar à cura.
 
-8. a) Pode ser **sífilis primária**.
+8. **a)** Pode ser **sífilis primária**.
 b) Porque a ferida desaparece, mas a bactéria continua no organismo e a doença pode avançar para os estágios secundário, latente e terciário.
 c) Ele deve procurar um serviço de saúde, fazer o teste, tratar e avisar os parceiros sexuais.
 
 9. Usar camisinha, vacinar-se contra HPV e hepatite B, fazer testagem regular, tratar o parceiro, não compartilhar agulhas e fazer pré-natal. Quatro dessas respostas são suficientes.
 
-10. a) **Sífilis** (de 120 para 150) e **HPV** (de 200 para 210).
+10. **a)** **Sífilis** (de 120 para 150) e **HPV** (de 200 para 210).
 b) **HIV** (de 80 para 75).
 c) Aumento = 150 − 120 = 30. Percentual = (30 ÷ 120) × 100 = **25%**.
 
@@ -1046,13 +1046,13 @@ c) Aumento = 150 − 120 = 30. Percentual = (30 ÷ 120) × 100 = **25%**.
 
 8. O fígado produz **bile**, armazena **glicogênio**, desintoxica substâncias, produz proteínas do plasma, metaboliza gorduras e armazena vitaminas e ferro. Três dessas funções bastam.
 
-9. a) **Intolerância à lactose**.
+9. **a)** **Intolerância à lactose**.
 b) A enzima **lactase**.
 c) A intolerância é uma **deficiência enzimática**: o corpo não digere bem a lactose e surgem gases e diarreia. A alergia ao leite é uma **reação imunológica** às proteínas do leite e pode causar sintomas mais graves, como urticária e dificuldade respiratória.
 
 10. Aumentar o consumo de **fibras** (frutas, verduras, legumes, grãos), beber mais **água**, praticar **atividade física**, manter horários regulares e não ignorar a vontade de evacuar. Se a constipação persistir, procurar um profissional de saúde.
 
-11. a) **Verdadeira**. A amilase salivar começa a digestão do amido na boca.
+11. **a)** **Verdadeira**. A amilase salivar começa a digestão do amido na boca.
 b) **Falsa**. O ácido clorídrico desnatura proteínas e ativa a pepsina; a digestão de gorduras ocorre principalmente no intestino delgado, com a lipase.
 c) **Verdadeira**.
 d) **Falsa**. A maior parte dos nutrientes é absorvida no intestino delgado; o intestino grosso absorve principalmente água e sais.
