@@ -1,6 +1,6 @@
 # tarefas-davi
 
-Material didático de matemática para o Davi Galvani (13 anos, 8º ano).
+Material didático de matemática, língua portuguesa e ciências para o Davi Galvani (13 anos, 8º ano).
 
 Cada guia é escrito em português brasileiro, com teoria longa e didática,
 exercícios por bloco e gabaritos com desenvolvimento completo.
