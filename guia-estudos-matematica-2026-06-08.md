@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD013 -->
 
 # Guia de Estudos de Matemática — 8º Ano
 
@@ -6,7 +5,6 @@ Organizado para Davi Galvani — 13 anos
 
 Data: 08/06/2026
 
----
 
 ## Sumário
 
@@ -19,7 +17,6 @@ Data: 08/06/2026
 7. [Bloco 6 — Sequências](#bloco-6-sequências)
 8. [Gabaritos](#gabaritos)
 
----
 
 ## Sugestão de Cronograma (4 semanas)
 
@@ -32,7 +29,6 @@ Cada dia: assista à aula no YouTube, depois leia a teoria, depois faça os exer
 | Semana 3 | 5 dias | Bloco 3 (Produtos Notáveis) + Bloco 4 (Fatoração) |
 | Semana 4 | 5 dias | Bloco 5 (Frações Algébricas) + Bloco 6 (Sequências) |
 
----
 
 # Bloco 0 — Pré-requisitos: Matemática Básica
 
@@ -167,7 +163,6 @@ Multiplicação e divisão primeiro: 5 × 2 = 10 e 8 ÷ 4 = 2. Fica: 3 + 10 − 
 
 Se fizéssemos na ordem errada (3+5=8, 8×2=16, 16−8=8, 8÷4=2), daria 2, que está completamente errado.
 
----
 
 ## Exercícios — Bloco 0
 
@@ -204,7 +199,6 @@ Se fizéssemos na ordem errada (3+5=8, 8×2=16, 16−8=8, 8÷4=2), daria 2, que 
 
 *(Gabarito na página de Gabaritos — Seção G0)*
 
----
 
 ## Vídeos — Bloco 0
 
@@ -213,7 +207,6 @@ Se fizéssemos na ordem errada (3+5=8, 8×2=16, 16−8=8, 8÷4=2), daria 2, que 
 - [Potenciação com Frações e Decimais — Gis com Giz](https://giscomgiz.com.br/potenciacao-com-fracao-e-decimal/)
 - [Matemática Básica — Curso Completo — Ferretto](https://www.youtube.com/playlist?list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB)
 
----
 
 # Bloco 1 — Expressões Algébricas com Monômios
 
@@ -296,7 +289,6 @@ Letra b: b³ ÷ b¹ = b³⁻¹ = b²
 
 Resultado: **3a²b²**
 
----
 
 ## Exercícios — Bloco 1
 
@@ -310,7 +302,6 @@ Resultado: **3a²b²**
 
 *(Gabarito na página de Gabaritos — Seção G1)*
 
----
 
 ## Vídeos — Bloco 1
 
@@ -318,7 +309,6 @@ Resultado: **3a²b²**
 - [Expressões Algébricas completo — Gis com Giz](https://giscomgiz.com.br/expressoes-algebricas/)
 - [Monômios e Operações — Portal OBMEP](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=13)
 
----
 
 # Bloco 2 — Polinômios
 
@@ -387,7 +377,6 @@ O 2 do primeiro multiplica os dois do segundo: 2·x = 2x, 2·3 = 6.
 
 Agora junte tudo: x² + 3x + 2x + 6 = **x² + 5x + 6**
 
----
 
 ## Exercícios — Bloco 2
 
@@ -401,14 +390,12 @@ Agora junte tudo: x² + 3x + 2x + 6 = **x² + 5x + 6**
 
 *(Gabarito na página de Gabaritos — Seção G2)*
 
----
 
 ## Vídeos — Bloco 2
 
 - [Polinômios e Expressões Algébricas — Ferretto](https://www.youtube.com/watch?v=tTJlv0avsbI)
 - [Adição, Subtração e Multiplicação de Polinômios — Brasil Escola](https://brasilescola.uol.com.br/videos/adicao-subtracao-multiplicacao-polinomios.htm)
 
----
 
 # Bloco 3 — Produtos Notáveis
 
@@ -496,7 +483,6 @@ Os termos do meio (−ab e +ab) se cancelam! Por isso sobra apenas "quadrado do 
 | Quadrado da diferença | (a−b)² = a² − 2ab + b² | 3 termos |
 | Soma × diferença | (a+b)(a−b) = a² − b² | 2 termos (os do meio se cancelam) |
 
----
 
 ## Exercícios — Bloco 3
 
@@ -528,7 +514,6 @@ Os termos do meio (−ab e +ab) se cancelam! Por isso sobra apenas "quadrado do 
 
 *(Gabarito na página de Gabaritos — Seção G3)*
 
----
 
 ## Vídeos — Bloco 3
 
@@ -537,7 +522,6 @@ Os termos do meio (−ab e +ab) se cancelam! Por isso sobra apenas "quadrado do 
 - [Produtos Notáveis — Brasil Escola](https://brasilescola.uol.com.br/matematica/produtos-notaveis.htm)
 - [Produtos Notáveis — Toda Matéria](https://www.todamateria.com.br/produtos-notaveis/)
 
----
 
 # Bloco 4 — Fatoração
 
@@ -649,7 +633,6 @@ Resultado: **(2x − 3)²**
 | Diferença de quadrados | Subtração de dois quadrados perfeitos | a²−b² = (a+b)(a−b) | x²−25 = (x+5)(x−5) |
 | Trinômio quadrado perfeito | 3 termos, primeiro e último são quadrados | a²±2ab+b² = (a±b)² | x²+6x+9 = (x+3)² |
 
----
 
 ## Exercícios — Bloco 4
 
@@ -685,7 +668,6 @@ Resultado: **(2x − 3)²**
 
 *(Gabarito na página de Gabaritos — Seção G4)*
 
----
 
 ## Vídeos — Bloco 4
 
@@ -693,7 +675,6 @@ Resultado: **(2x − 3)²**
 - [Fatoração de Expressões Algébricas — Ferretto](https://www.youtube.com/playlist?list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB)
 - [Diferença de Quadrados — Khan Academy BR](https://pt.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-arithmetic/x2ec2f6f830c9fb89:special-products/v/poly-diff-of-squares)
 
----
 
 # Bloco 5 — Frações Algébricas
 
@@ -739,7 +720,6 @@ Multiplique a primeira fração pelo inverso da segunda.
 
 **Exemplo:** x/(x+3) ÷ [x²/(x+3)] = x/(x+3) · (x+3)/x² = [x(x+3)]/[(x+3)x²] = **1/x** (cancelei x+3 e um x, para x ≠ −3 e x ≠ 0).
 
----
 
 ## Exercícios — Bloco 5
 
@@ -762,7 +742,6 @@ Multiplique a primeira fração pelo inverso da segunda.
 
 *(Gabarito na página de Gabaritos — Seção G5)*
 
----
 
 ## Vídeos — Bloco 5
 
@@ -771,7 +750,6 @@ Multiplique a primeira fração pelo inverso da segunda.
 - [Adição e Subtração de Frações Algébricas — Gis com Giz](https://www.youtube.com/watch?v=5IUJCJ2HDqc)
 - [Divisão de Frações Algébricas — Gis com Giz](https://www.youtube.com/watch?v=klOecOyECNs)
 
----
 
 # Bloco 6 — Sequências
 
@@ -833,7 +811,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **Exemplo:** (2, 6, 18, ...), qual o 6º termo? a₆ = 2 · 3⁶⁻¹ = 2 · 3⁵ = 2 · 243 = **486**.
 
----
 
 ## Exercícios — Bloco 6
 
@@ -856,7 +833,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 *(Gabarito na página de Gabaritos — Seção G6)*
 
----
 
 ## Vídeos — Bloco 6
 
@@ -865,7 +841,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 - [Progressão Aritmética — Curso Enem Gratuito](https://www.youtube.com/watch?v=sGsCCgnGzic)
 - [Sequências Numéricas — Mundo Educação](https://mundoeducacao.uol.com.br/matematica/sequencia-numerica.htm)
 
----
 
 # Canais Recomendados
 
@@ -879,7 +854,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 | Khan Academy (Português) | Fundamental ao Superior | Exercícios interativos |
 | Portal OBMEP (IMPA) | Aulas de alto nível | Desafios extras |
 
----
 
 # Dicas para os Pais
 
@@ -897,7 +871,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 7. **Recompense o esforço, não a nota:** Se ele completou todos os exercícios do bloco, celebre. A nota melhora como consequência.
 
----
 
 # Gabaritos
 
@@ -937,7 +910,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **16.** (2 + 3)² − (6 − 2) × 3 = 5² − 4 × 3 = 25 − 12 = **13**
 
----
 
 ## G1 — Gabarito do Bloco 1 (Monômios)
 
@@ -955,7 +927,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **7.** (−3a²) · (4a³) · (−2a) = (−3·4·(−2)) · a²⁺³⁺¹ = 24a⁶ = **24a⁶**
 
----
 
 ## G2 — Gabarito do Bloco 2 (Polinômios)
 
@@ -973,7 +944,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **7.** (x − 2)(x − 6) = x² − 6x − 2x + 12 = **x² − 8x + 12**
 
----
 
 ## G3 — Gabarito do Bloco 3 (Produtos Notáveis)
 
@@ -1005,7 +975,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **14.** (m + 7)² = **m² + 14m + 49** (quadrado da soma)
 
----
 
 ## G4 — Gabarito do Bloco 4 (Fatoração)
 
@@ -1039,7 +1008,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **15.** x² + 12x + 36 = **(x + 6)²** (trinômio quadrado perfeito)
 
----
 
 ## G5 — Gabarito do Bloco 5 (Frações Algébricas)
 
@@ -1059,7 +1027,6 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **8.** a²/(a−1) ÷ [a³/((a−1)²)] = a²/(a−1) · (a−1)²/a³ = **(a−1)/a**
 
----
 
 ## G6 — Gabarito do Bloco 6 (Sequências)
 
@@ -1079,6 +1046,5 @@ Na P.G., em vez de **somar** um valor fixo, você **multiplica** por um valor fi
 
 **8.** a₆ = 2 · 2⁵ = 2 · 32 = **64**
 
----
 
 *Guia preparado em 08/06/2026. Bons estudos, Davi!*
