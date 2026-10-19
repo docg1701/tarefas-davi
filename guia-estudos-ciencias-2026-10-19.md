@@ -891,12 +891,13 @@ e) A microbiota intestinal produz vitamina K.
 ## G1 — Gabarito do Bloco 1 (Sistemas genitais e reprodução humana)
 
 1. A sequência correta é: **(d), (f), (a), (e), (b), (c)**.
-d) Ovários: produzem óvulos e hormônios sexuais.
-f) Útero: abriga o embrião e o feto.
-a) Testículos: produzem espermatozoides e testosterona.
-e) Tubas uterinas: local onde normalmente ocorre a fecundação.
-b) Epidídimo: armazena e amadurece os espermatozoides.
-c) Próstata: produz um líquido que neutraliza a acidez.
+
+- **d)** Ovários: produzem óvulos e hormônios sexuais.
+- **f)** Útero: abriga o embrião e o feto.
+- **a)** Testículos: produzem espermatozoides e testosterona.
+- **e)** Tubas uterinas: local onde normalmente ocorre a fecundação.
+- **b)** Epidídimo: armazena e amadurece os espermatozoides.
+- **c)** Próstata: produz um líquido que neutraliza a acidez.
 
 2. a) **Falsa**. A puberdade começa em idades diferentes para cada pessoa; não há uma idade única.
 b) **Verdadeira**.
@@ -935,11 +936,12 @@ c) O **hCG**, produzido pelo embrião, mantém o corpo lúteo ativo e a progeste
 1. a) **Barreira**. b) **Hormonal**. c) **Intrauterino**. d) **Comportamental**. e) **Definitivo**. f) **Hormonal**. g) **Barreira**. h) **Definitivo**.
 
 2. A sequência é: **(c), (a), (b), (e), (d)**.
-c) Camisinha masculina: barreira física.
-a) Pílula combinada: impede a ovulação e altera o muco cervical.
-b) DIU de cobre: o cobre é tóxico para os espermatozoides.
-e) Coito interrompido: interrompe o ato antes da ejaculação, mas pode falhar.
-d) Vasectomia: bloqueia os ductos deferentes.
+
+- **c)** Camisinha masculina: barreira física.
+- **a)** Pílula combinada: impede a ovulação e altera o muco cervical.
+- **b)** DIU de cobre: o cobre é tóxico para os espermatozoides.
+- **e)** Coito interrompido: interrompe o ato antes da ejaculação, mas pode falhar.
+- **d)** Vasectomia: bloqueia os ductos deferentes.
 
 3. Índice de Pearl = (10 ÷ 200) × 100 = **5 gravidezes por 100 mulheres em um ano**.
 
@@ -982,11 +984,12 @@ c) Ela deve procurar um serviço de saúde para avaliar a contracepção de emer
 ## G3 — Gabarito do Bloco 3 (Infecções sexualmente transmissíveis)
 
 1. A sequência é: **(e), (a), (c), (d), (b)**.
-e) Candidíase: fungo.
-a) Sífilis: bactéria *Treponema pallidum*.
-c) HPV: vírus.
-d) Tricomoníase: protozoário.
-b) Gonorreia: bactéria *Neisseria gonorrhoeae*.
+
+- **e)** Candidíase: fungo.
+- **a)** Sífilis: bactéria *Treponema pallidum*.
+- **c)** HPV: vírus.
+- **d)** Tricomoníase: protozoário.
+- **b)** Gonorreia: bactéria *Neisseria gonorrhoeae*.
 
 2. a) **Falsa**. O HIV não é transmitido por picada de mosquito.
 b) **Verdadeira**.
@@ -1023,12 +1026,13 @@ c) Aumento = 150 − 120 = 30. Percentual = (30 ÷ 120) × 100 = **25%**.
 1. A ordem é: **d) boca → f) faringe → b) esôfago → a) estômago → c) intestino delgado → e) intestino grosso → g) ânus**.
 
 2. A sequência é: **(f), (a), (c), (b), (d), (e)**.
-f) Intestino grosso: absorve água e sais, formando as fezes.
-a) Fígado: produz bile e participa do metabolismo.
-c) Vesícula biliar: armazena a bile.
-b) Pâncreas: produz enzimas digestivas e insulina.
-d) Estômago: digere proteínas e forma o quimo.
-e) Intestino delgado: absorve a maior parte dos nutrientes.
+
+- **f)** Intestino grosso: absorve água e sais, formando as fezes.
+- **a)** Fígado: produz bile e participa do metabolismo.
+- **c)** Vesícula biliar: armazena a bile.
+- **b)** Pâncreas: produz enzimas digestivas e insulina.
+- **d)** Estômago: digere proteínas e forma o quimo.
+- **e)** Intestino delgado: absorve a maior parte dos nutrientes.
 
 3. Amilase salivar: **amido** → maltose. Pepsina: proteínas → **peptídeos**. Lipase: gorduras → **ácidos graxos e glicerol**. Lactase: **lactose** → glicose e galactose. Tripsina: **proteínas** → peptídeos.
 

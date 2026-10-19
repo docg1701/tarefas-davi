@@ -124,6 +124,9 @@ A teoria é para um aluno de 13 anos com dificuldade. Cada seção deve:
 - Cada resposta inclui o **desenvolvimento completo**, não só o resultado.
 - Resultado final em **negrito**.
 - Indique qual técnica foi usada entre parênteses quando relevante.
+- Em listas de correspondência, use a letra em negrito dentro de um item de lista
+  (`- **d)** ...`). Não comece a linha com `d)` fora de ordem: o pandoc
+  interpreta como lista ordenada e renumera as letras.
 
 ### 2.7 Como montar o sumário
 
